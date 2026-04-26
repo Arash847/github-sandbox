@@ -4,7 +4,6 @@
 
 A GitHub Actions workflow that lets you download files into your repository just by writing a special commit message — no terminal or command line needed
 --
-
 ## ⚙️ Setup
 
 0. Fork this repo
@@ -48,7 +47,7 @@ download: URL1 URL2 URL3
 **Examples:**
 
 ```
-download: https://ev-h.phncdn.com/hls/c6251/videos/202604/16/45425115/720P_4000K_45425115.mp4/master.m3u8?validfrom=1777028733&validto=1777035933&ipa=1&hdl=-1&hash=p6aePnzwdpEmbS0K7llRLl1O2R0%3D
+download: https://im-h.phncdn.com/XkFOUdcij581jF9tSqs8tI7uF54=,1777250609/hls/videos/202409/22/458121051/720P_4000K_458121051.mp4/master.m3u8?
 ```
 
 ```
