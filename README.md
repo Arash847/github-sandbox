@@ -6,6 +6,7 @@ A GitHub Actions workflow that lets you download files into your repository just
 --
 ## ⚙️ Setup
 
+
 0. Fork this repo
 1. Go to your repository on GitHub
 2. Click **Settings** → **Actions** → **General**
@@ -47,7 +48,7 @@ download: URL1 URL2 URL3
 **Examples:**
 
 ```
-download: https://im-h.phncdn.com/XkFOUdcij581jF9tSqs8tI7uF54=,1777250609/hls/videos/202409/22/458121051/720P_4000K_458121051.mp4/master.m3u8?
+download: https://im-h.phncdn.com/XkFOUdcij581jF9tSqs8tI7uF54=,1777250609/hls/videos/202409/22/458121051/720P_4000K_458121051.mp4/index-v1-a1.m3u8
 ```
 
 ```
