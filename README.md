@@ -48,7 +48,7 @@ download: URL1 URL2 URL3
 **Examples:**
 
 ```
-download: https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.7.7/mhrv-rs-android-arm64-v8a-v1.7.7.apk
+download: https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.7.7/mhrv-rs-windows-amd64.zip
 ```
 
 ```
