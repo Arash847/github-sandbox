@@ -3,7 +3,7 @@
 # 📥 Download Files via Commit Message
 
 A GitHub Actions workflow that lets you download files into your repository just by writing a special commit message — no terminal or command line needed
----
+---\
 
 ## ⚙️ Setup
 
@@ -48,7 +48,7 @@ download: URL1 URL2 URL3
 **Examples:**
 
 ```
-download: https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.7.7/mhrv-rs-windows-amd64.zip
+download: https://ev-h.phncdn.com/hls/c6251/videos/202604/16/45425115/720P_4000K_45425115.mp4/master.m3u8?validfrom=1777028733&validto=1777035933&ipa=1&hdl=-1&hash=p6aePnzwdpEmbS0K7llRLl1O2R0%3D
 ```
 
 ```
