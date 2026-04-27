@@ -43,7 +43,6 @@ download: URL1 URL2 URL3
 ```
 
 **Examples:**
-
 ```
 download: http://s47.bigcdn.cc/pubs/69eea978eb5584.45594059/1080.mp4
 ```
