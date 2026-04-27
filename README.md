@@ -47,7 +47,7 @@ download: URL1 URL2 URL3
 **Examples:**
 
 ```
-download: https://mp4-cdn77.xnxx-cdn.com/6649f157-8f4d-44a1-bb8e-bc9f80b5e478/0/video_360p.mp4?secure=So95EpxqSpBGY5ukngV4Tw==,1777258784&download=XNXX_hardcore_stress_relief_SD.mp4
+download: http://s47.bigcdn.cc/pubs/69eea978eb5584.45594059/1080.mp4
 ```
 
 ```
