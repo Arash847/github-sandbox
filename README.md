@@ -44,7 +44,7 @@ download: URL1 URL2 URL3
 
 **Examples:**
 ```
-download: http://s47.bigcdn.cc/pubs/69eea978eb5584.45594059/1080.mp4
+download: https://productionresultssa0.blob.core.windows.net/actions-results/1bdfd299-12d9-43cc-9024-d1cc75769e06/workflow-job-run-2aae21c0-e6bf-5015-8903-72bb43d06304/artifacts/cc5963e1ab0f423d93fbf22f85bdcc9a62e5093b49654e0731ec4ce4bcf89e52.zip?rscd=attachment%3B+filename%3D%22BluSpoofer-debug.zip%22&rsct=application%2Fzip&se=2026-04-30T18%3A28%3A39Z&sig=mamas4qzUlDE4YmCfK59vayEwjwOi3a7W8Fs%2FMvfKTg%3D&ske=2026-04-30T21%3A32%3A01Z&skoid=ca7593d4-ee42-46cd-af88-8b886a2f84eb&sks=b&skt=2026-04-30T17%3A32%3A01Z&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skv=2025-11-05&sp=r&spr=https&sr=b&st=2026-04-30T18%3A18%3A34Z&sv=2025-11-05
 ```
 
 ```
