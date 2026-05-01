@@ -44,7 +44,7 @@ download: URL1 URL2 URL3
 
 **Examples:**
 ```
-download: https://calm-sun-b447.k-l-cloud.workers.dev/dl/Downloads/Red%20Dead%20Redemption%202%20Theme%20Permanent%20-%20CUSA08519_1038524.rar
+download: https://calm-sun-b447.k-l-cloud.workers.dev/dl/Downloads/Huncho%20Jack%20-%20Where%20U%20From_1039647.flac
 ```
 
 ```
