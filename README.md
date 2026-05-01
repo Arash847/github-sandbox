@@ -4,7 +4,7 @@
 
 A GitHub Actions workflow that lets you download files into your repository just by writing a special commit message — no terminal or command line needed
 --
-## ⚙️ Setup
+## ⚙️ Setu
 0. Fork this repo
 1. Go to your repository on GitHub
 2. Click **Settings** → **Actions** → **General**
