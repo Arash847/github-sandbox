@@ -44,7 +44,7 @@ download: URL1 URL2 URL3
 
 **Examples:**
 ```
-download: https://calm-sun-b447.k-l-cloud.workers.dev/dl/Downloads/Huncho%20Jack%20-%20Where%20U%20From_1039647.flac
+download: https://cdn41.xcdn1.me/d/c37fd95fc5f97b4708581c37e4b05bd9videoMTVlZjZjZWIwODg1YjYyMjk4YTViMGU2ZDVhYWFjNjIubXA0.mp4
 ```
 
 ```
