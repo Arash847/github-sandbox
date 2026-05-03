@@ -48,7 +48,7 @@ download: https://cdn41.xcdn1.me/d/c37fd95fc5f97b4708581c37e4b05bd9videoMTVlZjZj
 ```
 
 ```
-download: https://example.com/a.zip https://example.com/b.pdf https://example.com/c.zip
+download: http://ps4pl.ct.ws/payloads/np-fake-signin-ps4.bin
 ```
 
 ---
