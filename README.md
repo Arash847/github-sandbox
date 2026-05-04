@@ -48,7 +48,7 @@ download: https://cdn41.xcdn1.me/d/c37fd95fc5f97b4708581c37e4b05bd9videoMTVlZjZj
 ```
 
 ```
-download: http://ps4pl.ct.ws/payloads/np-fake-signin-ps4.bin
+download: https://github.com/jdros15/dump2ufs-gui/releases/download/1.4.0/dump2ufs-gui.exe
 ```
 
 ---
