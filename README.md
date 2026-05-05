@@ -44,7 +44,7 @@ download: URL1 URL2 URL3
 
 **Examples:**
 ```
-download: https://cdn41.xcdn1.me/d/c37fd95fc5f97b4708581c37e4b05bd9videoMTVlZjZjZWIwODg1YjYyMjk4YTViMGU2ZDVhYWFjNjIubXA0.mp4
+download: https://fluffyquack.com/tools/modmanager.zip
 ```
 
 ```
