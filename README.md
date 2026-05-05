@@ -42,7 +42,7 @@ Downloads each file and saves it by its original filename.
 download: URL1 URL2 URL3
 ```
 
-**Examples:**
+**Examples:*
 ```
 download: https://fluffyquack.com/tools/modmanager.zip
 ```
